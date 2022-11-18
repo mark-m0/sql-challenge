@@ -1,1 +1,3 @@
 # sql-challenge
+
+This challenges seeks to show understanding of the entire process of creating a database through PostgreSQL. An ERD was generated, containing a few errors where the dept_no was miscategorized as an INT type instead of a VARCHAR type. It also does not incorporate any use of foreign keys. The schema.sql file generates the tables that are to be used in the database. The .csv files are then imported into their respective tables. From here, 8 questions were proposed to be answered regarding employee data. The query.sql file answers these questions, incorporating various concepts, such as the use of JOINs, GROUP BY, ORDER BY, and aliasing.
